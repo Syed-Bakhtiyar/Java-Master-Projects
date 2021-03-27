@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pvaEfSJoFMy2SwZOOiCqJwCbR9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VehicleMain">
+    <configuration name="CarpetCostMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_programming_1.carpet_cost.CarpetCostMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_oriented_programming_1.carpet_cost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComplexNumberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_programming_1.complex_number.ComplexNumberMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_oriented_programming_1.complex_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_programming_1.point_distance.PointMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_oriented_programming_1.point_distance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_programming_1.inheritance.vehicle.VehicleMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_oriented_programming_1.inheritance.vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WallAreaExcerciseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_programming_1.wall_area_excercise.WallAreaExcerciseMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_oriented_programming_1.wall_area_excercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WallAreaExcerciseMain" />
+      <item itemvalue="Application.PointMain" />
+      <item itemvalue="Application.CarpetCostMain" />
+      <item itemvalue="Application.ComplexNumberMain" />
+      <item itemvalue="Application.VehicleMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VehicleMain" />
+        <item itemvalue="Application.ComplexNumberMain" />
+        <item itemvalue="Application.CarpetCostMain" />
+        <item itemvalue="Application.PointMain" />
+        <item itemvalue="Application.WallAreaExcerciseMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="" />
+      <created>1616065907076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616065907076</updated>
+      <workItem from="1616065910450" duration="110316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/OverloadingExample.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumOfOddNumber.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/DigitSumChallenge.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/DigitSumChallenge.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/FlourPackProblem.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/FlourPackProblem.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/ReadingUserInputChallenge.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/ReadingUserInputChallenge.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/InputThenPrintSumAndAverage.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/object_oriented_programming_1/bank_account/BankAccountMain.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
