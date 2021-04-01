@@ -2,84 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/mobile/Contacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/mobile/MobileMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/introduction/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/introduction/IntroductionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/introduction/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/introduction/SortDecendingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/encapsulation/player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/encapsulation/player/PlayerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/encapsulation/printer/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/encapsulation/printer/PrinterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/coding_excercise_circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/coding_excercise_circle/CircleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/coding_excercise_circle/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/BedroomMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/composition_hasA_Example/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/rectangle/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/rectangle/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/rectangle/RectangleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/polymorphism/car/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/polymorphism/movie/MovieMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/the_big_picture/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/the_big_picture/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/the_big_picture/HamburgerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming/the_big_picture/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/referencing_issue/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/referencing_issue/CustomerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccount.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccountMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/Carpet.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/CarpetCostMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/Floor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/complex_number/ComplexNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/complex_number/ComplexNumberMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/Car.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/SpecificCar.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/VehicleMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/introduction_to_class/Car.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/introduction_to_class/IntroductionClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/person/Person.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/person/PersonMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/point_distance/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/point_distance/PointMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/sum_calculator/SumCalculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/sum_calculator/SumCalculatorMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/vip_customer/VipCustomer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/vip_customer/VipCustomerMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/wall_area_excercise/WallAreaExcercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/wall_area_excercise/WallAreaExcerciseMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/bank_account/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/bank_account/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/bank_account/BankAccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/bank_account/BankAccountMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/carpet_cost/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/carpet_cost/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/carpet_cost/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/carpet_cost/Carpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/carpet_cost/CarpetCostMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/carpet_cost/CarpetCostMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/carpet_cost/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/carpet_cost/Floor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/complex_number/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/complex_number/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/complex_number/ComplexNumberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/complex_number/ComplexNumberMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/inheritance/vehicle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/vehicle/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/inheritance/vehicle/SpecificCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/vehicle/SpecificCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/inheritance/vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/vehicle/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/inheritance/vehicle/VehicleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/inheritance/vehicle/VehicleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/introduction_to_class/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/introduction_to_class/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/introduction_to_class/IntroductionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/introduction_to_class/IntroductionClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/person/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/person/PersonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/point_distance/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/point_distance/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/point_distance/PointMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/point_distance/PointMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/sum_calculator/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/sum_calculator/SumCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/sum_calculator/SumCalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/sum_calculator/SumCalculatorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/vip_customer/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/vip_customer/VipCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/vip_customer/VipCustomerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/vip_customer/VipCustomerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/wall_area_excercise/WallAreaExcercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/wall_area_excercise/WallAreaExcercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object_oriented_programming_1/wall_area_excercise/WallAreaExcerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_oriented_programming/wall_area_excercise/WallAreaExcerciseMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,13 +76,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntroductionMain">
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.introduction.FindMin" />
+  <component name="RunManager" selected="Application.LinkedListMain">
+    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arraylists.bank.BankMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.introduction.*" />
+          <option name="PATTERN" value="arrays.arraylists.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.builtinLinkedlist.referencing_issue.CustomerMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.builtinLinkedlist.referencing_issue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.builtinLinkedlist.linkedlist_complex_iter_example.LinkedListMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.builtinLinkedlist.linkedlist_complex_iter_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MobileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arraylists.mobile.MobileMain" />
       <module name="JavaMasterClass" />
@@ -168,46 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.introduction.ReverseArray" />
-      <module name="JavaMasterClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortDecendingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.introduction.SortDecendingArray" />
-      <module name="JavaMasterClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.IntroductionMain" />
-      <item itemvalue="Application.SortDecendingArray" />
-      <item itemvalue="Application.FindMin" />
-      <item itemvalue="Application.ReverseArray" />
       <item itemvalue="Application.MobileMain" />
+      <item itemvalue="Application.BankMain" />
+      <item itemvalue="Application.CustomerMain" />
+      <item itemvalue="Application.LinkedListMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListMain" />
+        <item itemvalue="Application.CustomerMain" />
+        <item itemvalue="Application.BankMain" />
         <item itemvalue="Application.IntroductionMain" />
         <item itemvalue="Application.MobileMain" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.FindMin" />
-        <item itemvalue="Application.SortDecendingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616065907076</updated>
       <workItem from="1616065910450" duration="129643000" />
-      <workItem from="1617099371022" duration="14474000" />
+      <workItem from="1617099371022" duration="24606000" />
     </task>
     <servers />
   </component>
@@ -389,6 +337,61 @@
           <url>file://$PROJECT_DIR$/src/arrays/introduction/SortDecendingArray.java</url>
           <line>55</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
