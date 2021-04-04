@@ -2,14 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/BankMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/bank/bank/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/referencing_issue/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/builtinLinkedlist/referencing_issue/CustomerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/button_click/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/button_click/ButtonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/introduction/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/introduction/GearBoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/SongMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/ITelephoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DigitSumChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DigitSumChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/EvenNumberChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/EvenNumberChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/FlourPackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/FlourPackProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ForStatementOrLoopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ForStatementOrLoopExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/GreatestCommonDivisorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/GreatestCommonDivisorExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasSharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasSharedDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasTheSameLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasTheSameLastDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/InputThenPrintSumAndAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/InputThenPrintSumAndAverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/LargestPrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/LargestPrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/MinAndMaxInputChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/MinAndMaxInputChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NoOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NoOfDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberInWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberInWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PaintJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PaintJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PalindromeExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PalindromeExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PerfectNumberExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PerfectNumberExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrimeNumberUsingLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrimeNumberUsingLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintDayOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintDayOfTheWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintFactorsExcersice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintFactorsExcersice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ReadingUserInputChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ReadingUserInputChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumChallengeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumChallengeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumFirstAndLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumFirstAndLastDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfEvenDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfEvenDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfOddNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SwitchStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SwitchStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/AreaCalculatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/AreaCalculatorExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/BarkingDogExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/BarkingDogExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/CatPlayingExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/CatPlayingExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/DecimalComparatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/DecimalComparatorExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualSumCheckerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualSumCheckerExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualityPrinterExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualityPrinterExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/HasTeenExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/HasTeenExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/If_Else_ControlExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/If_Else_ControlExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Keywords_Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Keywords_Expressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/LeapYearCalculatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/LeapYearCalculatorExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MegaBytesConverterExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MegaBytesConverterExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MethodsChallenge1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MethodsChallenge1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MinutesToYearAndDaysExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MinutesToYearAndDaysExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/OverloadingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/OverloadingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SpeedConverterExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SpeedConverterExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/ByteShortIntLong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/ByteShortIntLong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/CharsAndUnicodeAndBooleanExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/CharsAndUnicodeAndBooleanExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/FloatDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/FloatDouble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/If_Then.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/If_Then.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/OperatorChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/OperatorChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PoundToKilogramExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PoundToKilogramExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PrimitiveChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PrimitiveChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Variables.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccount.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccountMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/CarpetCostMain.class" beforeDir="false" />
@@ -35,9 +102,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,17 +133,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../apds/apds-existing/ccbe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="object_oriented_programming_1.polymorphism.car" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,13 +166,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListMain">
-    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arraylists.bank.BankMain" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ButtonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.innerclass.button_click.ButtonMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arraylists.bank.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.innerclass.button_click.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.builtinLinkedlist.referencing_issue.CustomerMain" />
+    <configuration name="GearBoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.innerclass.introduction.GearBoxMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.builtinLinkedlist.referencing_issue.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.innerclass.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroductionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.introduction.IntroductionMain" />
+    <configuration name="ITelephoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.interfaces.telephone.ITelephoneMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.introduction.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.interfaces.telephone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.builtinLinkedlist.linkedlist_complex_iter_example.LinkedListMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.interfaces.isaveable.Main" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.builtinLinkedlist.linkedlist_complex_iter_example.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.interfaces.isaveable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arraylists.mobile.MobileMain" />
+    <configuration name="SongMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.innerclass.song.SongMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arraylists.mobile.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.innerclass.song.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IntroductionMain" />
-      <item itemvalue="Application.MobileMain" />
-      <item itemvalue="Application.BankMain" />
-      <item itemvalue="Application.CustomerMain" />
-      <item itemvalue="Application.LinkedListMain" />
+      <item itemvalue="Application.ITelephoneMain" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GearBoxMain" />
+      <item itemvalue="Application.ButtonMain" />
+      <item itemvalue="Application.SongMain (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListMain" />
-        <item itemvalue="Application.CustomerMain" />
-        <item itemvalue="Application.BankMain" />
-        <item itemvalue="Application.IntroductionMain" />
-        <item itemvalue="Application.MobileMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SongMain (1)" />
+        <item itemvalue="Application.ButtonMain" />
+        <item itemvalue="Application.GearBoxMain" />
+        <item itemvalue="Application.ITelephoneMain" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +260,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616065907076</updated>
       <workItem from="1616065910450" duration="129643000" />
-      <workItem from="1617099371022" duration="24606000" />
+      <workItem from="1617099371022" duration="52343000" />
     </task>
     <servers />
   </component>
@@ -392,6 +482,26 @@
           <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
           <line>55</line>
           <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
