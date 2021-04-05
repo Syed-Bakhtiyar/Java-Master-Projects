@@ -2,99 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/button_click/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/button_click/ButtonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/introduction/GearBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/introduction/GearBoxMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/innerclass/song/SongMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/isaveable/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/DeskPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/ITelephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/ITelephoneMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/interfaces/telephone/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/BinarySearchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/custom_linked_lists_big_picture/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/Penguin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DiagonalStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DigitSumChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/DigitSumChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/EvenNumberChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/EvenNumberChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/FlourPackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/FlourPackProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ForStatementOrLoopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ForStatementOrLoopExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/GreatestCommonDivisorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/GreatestCommonDivisorExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasSharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasSharedDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasTheSameLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/HasTheSameLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/InputThenPrintSumAndAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/InputThenPrintSumAndAverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/LargestPrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/LargestPrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/MinAndMaxInputChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/MinAndMaxInputChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NoOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NoOfDaysInMonth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberInWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberInWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/NumberToWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PaintJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PaintJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PalindromeExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PalindromeExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PerfectNumberExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PerfectNumberExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrimeNumberUsingLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrimeNumberUsingLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintDayOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintDayOfTheWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintFactorsExcersice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/PrintFactorsExcersice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ReadingUserInputChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/ReadingUserInputChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumChallengeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumChallengeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumFirstAndLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumFirstAndLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfEvenDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfEvenDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SumOfOddNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SwitchStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/control_flow_statement/SwitchStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/AreaCalculatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/AreaCalculatorExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/BarkingDogExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/BarkingDogExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/CatPlayingExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/CatPlayingExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/DecimalComparatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/DecimalComparatorExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualSumCheckerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualSumCheckerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualityPrinterExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/EqualityPrinterExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/HasTeenExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/HasTeenExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/If_Else_ControlExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/If_Else_ControlExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Keywords_Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Keywords_Expressions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/LeapYearCalculatorExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/LeapYearCalculatorExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MegaBytesConverterExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MegaBytesConverterExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MethodsChallenge1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MethodsChallenge1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MinutesToYearAndDaysExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/MinutesToYearAndDaysExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/OverloadingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/OverloadingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SpeedConverterExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/expressions_statements_codeBlocks_methods/SpeedConverterExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/ByteShortIntLong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/ByteShortIntLong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/CharsAndUnicodeAndBooleanExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/CharsAndUnicodeAndBooleanExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/FloatDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/FloatDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/If_Then.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/If_Then.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/OperatorChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/OperatorChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Operators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PoundToKilogramExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PoundToKilogramExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PrimitiveChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/PrimitiveChallenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMasterClass/first_step/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/bank_account/BankAccountMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/CarpetCostMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/Floor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/complex_number/ComplexNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/Car.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/SpecificCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/Vehicle.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/introduction_to_class/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/introduction_to_class/IntroductionClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/person/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/person/PersonMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/point_distance/Point.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/sum_calculator/SumCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/sum_calculator/SumCalculatorMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/vip_customer/VipCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/vip_customer/VipCustomerMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/wall_area_excercise/WallAreaExcercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces_abstract_and_inner_classes/abstract_classes/introduction/AnimalMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,13 +94,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ButtonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.innerclass.button_click.ButtonMain" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.abstract_classes.introduction.AnimalMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.innerclass.button_click.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.abstract_classes.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GearBoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.innerclass.introduction.GearBoxMain" />
+    <configuration name="BinarySearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.BinarySearchMain" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.innerclass.introduction.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ITelephoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.interfaces.telephone.ITelephoneMain" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.Main" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.interfaces.telephone.*" />
+          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ITelephoneMain" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.GearBoxMain" />
-      <item itemvalue="Application.ButtonMain" />
       <item itemvalue="Application.SongMain (1)" />
+      <item itemvalue="Application.AnimalMain" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.BinarySearchMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.BinarySearchMain" />
+        <item itemvalue="Application.AnimalMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SongMain (1)" />
-        <item itemvalue="Application.ButtonMain" />
-        <item itemvalue="Application.GearBoxMain" />
-        <item itemvalue="Application.ITelephoneMain" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616065907076</updated>
       <workItem from="1616065910450" duration="129643000" />
-      <workItem from="1617099371022" duration="52343000" />
+      <workItem from="1617099371022" duration="62612000" />
     </task>
     <servers />
   </component>
@@ -279,231 +207,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/OverloadingExample.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/expressions_statements_codeBlocks_methods/SecondsMinutesOverloadingExample.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumOfOddNumber.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/DigitSumChallenge.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/DigitSumChallenge.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PalindromeExercise.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/SumFirstAndLastDigit.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/FlourPackProblem.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/FlourPackProblem.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/LargestPrimeNumber.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/ReadingUserInputChallenge.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/ReadingUserInputChallenge.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/InputThenPrintSumAndAverage.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/control_flow_statement/PaintJob.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/object_oriented_programming/bank_account/BankAccountMain.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/object_oriented_programming/inheritance/rectangle/Cuboid.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/introduction/SortDecendingArray.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/introduction/SortDecendingArray.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>105</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/builtinLinkedlist/linkedlist_complex_iter_example/LinkedListMain.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
-          <line>87</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/arraylists/song/SongMain.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
