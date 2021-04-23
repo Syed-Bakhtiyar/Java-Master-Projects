@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2bc9215-f509-4dfe-b32b-2ce167eb17eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/map_intro/MapProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/theatre/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/theatre/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/introduction/TeamGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/league/TeamGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/instanceof_downcasting_example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/instanceof_downcasting_example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/instanceof_downcasting_example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/map_intro/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions_example/introductions/Introduction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaMasterClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMasterClass.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/carpet_cost/Floor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/complex_number/ComplexNumber.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/inheritance/vehicle/SpecificCar.class" beforeDir="false" />
@@ -27,6 +18,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/sum_calculator/SumCalculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/vip_customer/VipCustomer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMasterClass/object_oriented_programming_1/wall_area_excercise/WallAreaExcercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map_intro/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/map_intro/MapProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/theatre/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/theatre/Theatre.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -65,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/generics/league" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,7 +67,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -101,13 +95,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapProgram">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloWorldFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaFX_excercise.hello_world.HelloWorldFX" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces_abstract_and_inner_classes.abstract_classes.custom_linked_lists_big_picture.*" />
+          <option name="PATTERN" value="javaFX_excercise.hello_world.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.introduction.Main" />
+    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions_example.introductions.Introduction" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.introduction.*" />
+          <option name="PATTERN" value="exceptions_example.introductions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.league.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.instanceof_downcasting_example.Main" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.league.*" />
+          <option name="PATTERN" value="collections.instanceof_downcasting_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MapProgram" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.HelloWorldFX" />
+      <item itemvalue="Application.Introduction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapProgram" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.HelloWorldFX" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.MapProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +196,10 @@
       <workItem from="1617906671181" duration="2237000" />
       <workItem from="1617999117354" duration="1512000" />
       <workItem from="1618037636402" duration="4026000" />
+      <workItem from="1618170655259" duration="7698000" />
+      <workItem from="1618688261777" duration="407000" />
+      <workItem from="1618688819447" duration="298000" />
+      <workItem from="1618758571585" duration="11031000" />
     </task>
     <servers />
   </component>
